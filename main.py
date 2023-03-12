@@ -4,5 +4,9 @@ def num(n):
     elif n % 2 != 0:
         print(n, '- не чётное число')
     return n
+
+
 num(int(input("Введите любое число: ")))
+
+
 # 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
